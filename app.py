@@ -1,3 +1,4 @@
+import os
 import streamlit as st
 import pandas as pd
 
@@ -26,13 +27,12 @@ if uploaded_file is not None:
         st.write(grouped_df)
 
         # Excel dosyasını indirme
-        output = pd.ExcelWriter("sonuc.xlsx", engine='openpyxl')
-        grouped_df.to_excel(output, index=False, sheet_name='Sonuçlar')
-        output.save()
+        with pd.ExcelWriter("sonuc.xlsx", engine='openpyxl') as writer:
+            grouped_df.to_excel(writer, index=False, sheet_name='Sonuçlar')
 
         # Excel dosyasını kullanıcıya sunma
         with open("sonuc.xlsx", "rb") as file:
-            btn = st.download_button(
+            st.download_button(
                 label="Excel Dosyasını İndir",
                 data=file,
                 file_name="sonuc.xlsx",

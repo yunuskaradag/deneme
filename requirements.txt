@@ -1,4 +1,2 @@
 ### dependency
 streamlit
-pandas
-os

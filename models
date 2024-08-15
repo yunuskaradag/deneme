@@ -20,3 +20,8 @@ Upsell	Mevcut müşterilere daha yüksek değerli ürün veya hizmetleri önerer
 X-Sell (Cross-Sell)	Mevcut müşterilere ek veya ilgili ürün ve hizmetler sunarak çapraz satış yapmak.
 Cohort Analysis	Müşterileri benzer özelliklere sahip gruplara ayırarak zaman içindeki performanslarını ve davranışlarını analiz etmek.
 RFM (Recency, Frequency, Monetary)	Müşterileri son alışveriş zamanları, alışveriş sıklığı ve harcama miktarlarına göre segmentlere ayırarak hedeflenmiş pazarlama stratejileri geliştirmek.
+Segmentation Analysis	Müşteri veya pazar segmentlerini belirlemek için kullanılır, böylece hedeflenmiş pazarlama stratejileri geliştirilebilir.
+Customer Journey Mapping	Müşterilerin markayla etkileşimde bulundukları tüm aşamaları görselleştirir, bu sayede müşteri deneyimi iyileştirilebilir.
+Market Basket Analysis	Alışveriş sepetlerindeki ürünlerin birlikte satın alınma olasılıklarını analiz eder, çapraz satış fırsatlarını belirler.
+Net Promoter Score (NPS)	Müşteri memnuniyeti ve sadakatini ölçmek için kullanılır. Müşterilerin markayı başkalarına önerme olasılıklarını değerlendirir.
+CLV (Customer Lifetime Value)	Bir müşterinin şirketle olan ilişkisi boyunca sağlayacağı toplam değeri hesaplar ve müşteri segmentlerini hedefler.

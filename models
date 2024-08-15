@@ -1,0 +1,22 @@
+Proje/Model	Amaç
+Bireysel-Tüzel Karne	Bireysel ve tüzel müşterilerin performansını, karlılığını ve risk profilini değerlendirmek.
+SOW Modeli	Proje kapsamını, teslimatları, zaman çizelgesini ve sorumlulukları net bir şekilde tanımlamak.
+Çapraz Satış Segmentasyonu	Mevcut müşterilere ek ürün veya hizmetlerin satışını artırmak için müşteri segmentlerini belirlemek.
+LTV (Lifetime Value)	Bir müşterinin ömrü boyunca şirkete sağlayacağı toplam geliri hesaplamak.
+Aktifleşme Modeli	Yeni müşterilerin aktif kullanıcı haline gelme süreçlerini optimize etmek ve hızlandırmak.
+NPTB Modeli	Yeni ürün denemeleri ve fiyatlandırma stratejilerini belirlemek için müşteri davranışlarını analiz etmek.
+Churn Modeli	Müşteri kaybını (churn) tahmin etmek ve bu kaybı önleyici stratejiler geliştirmek.
+VR Modeli (Value at Risk)	Portföydeki potansiyel maksimum kaybı ölçmek ve risk yönetimi stratejileri geliştirmek.
+Aktiflik-Süreklilik Endeksi	Müşterilerin aktiflik ve süreklilik düzeylerini ölçerek müşteri sadakatini artırmak.
+Hayat Tarzı Segmentasyonu	Müşterilerin yaşam tarzına göre segmentasyon yaparak kişiselleştirilmiş pazarlama stratejileri geliştirmek.
+Mikro Profil Modeli	Müşteri davranışlarını daha ayrıntılı bir şekilde anlamak için küçük segmentlere dayalı profiller oluşturmak.
+Spend Categorization	Müşteri harcamalarını kategorilere ayırarak daha iyi analizler ve pazarlama stratejileri geliştirmek.
+Bid Optimization	Dijital reklam kampanyalarında teklifleri optimize ederek reklam bütçesini en verimli şekilde kullanmak.
+Digital Onboarding	Yeni müşterilerin dijital ortamda hızlı ve sorunsuz bir şekilde kaydolmasını ve aktif hale gelmesini sağlamak.
+Single Screen	Farklı kanallardan gelen müşteri bilgilerinin tek bir ekranda toplanarak daha etkin müşteri hizmeti sunmak.
+Outbound Centralization	Dış arama süreçlerini merkezileştirerek müşteri iletişimini daha etkin hale getirmek ve verimliliği artırmak.
+Retention	Müşterileri elde tutma stratejilerini geliştirmek ve müşteri kaybını azaltmak.
+Upsell	Mevcut müşterilere daha yüksek değerli ürün veya hizmetleri önererek satışları artırmak.
+X-Sell (Cross-Sell)	Mevcut müşterilere ek veya ilgili ürün ve hizmetler sunarak çapraz satış yapmak.
+Cohort Analysis	Müşterileri benzer özelliklere sahip gruplara ayırarak zaman içindeki performanslarını ve davranışlarını analiz etmek.
+RFM (Recency, Frequency, Monetary)	Müşterileri son alışveriş zamanları, alışveriş sıklığı ve harcama miktarlarına göre segmentlere ayırarak hedeflenmiş pazarlama stratejileri geliştirmek.
